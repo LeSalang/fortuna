@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Фортуна</string>
+    <string name="fortuna">Фортуна</string>
+    <string name="helm">штурвал</string>
+    <string name="result">результат</string>
+    <string name="turn_the_wheel">Крутить штурвал</string>
+    <string name="taste_standard">стандартная</string>
+    <string name="taste_pirate">пиратская</string>
+    <string name="taste_mexican">мексиканская</string>
+    <string name="taste_cheese">сырная</string>
+    <string name="taste_shrimp">креветочная</string>
+    <string name="taste_pomegranate">гранатовая</string>
+    <string name="taste_pineapple">ананасовая</string>
+    <string name="taste_kiwi">кивовая</string>
+    <string name="taste_mushroom">грибная</string>
+</resources>

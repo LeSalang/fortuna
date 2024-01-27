@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Fortuna</string>
+    <string name="fortuna">Fortuna</string>
+    <string name="helm">helm</string>
+    <string name="result">result</string>
+    <string name="turn_the_wheel">Turn the wheel</string>
+    <string name="taste_standard">standard</string>
+    <string name="taste_pirate">pirate</string>
+    <string name="taste_mexican">mexican</string>
+    <string name="taste_cheese">cheese</string>
+    <string name="taste_shrimp">shrimp</string>
+    <string name="taste_pomegranate">pomegranate</string>
+    <string name="taste_pineapple">pineapple</string>
+    <string name="taste_kiwi">kiwi</string>
+    <string name="taste_mushroom">mushroom</string>
+</resources>
